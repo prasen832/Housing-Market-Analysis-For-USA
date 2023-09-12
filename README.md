@@ -42,3 +42,13 @@ Link to [Case-Shiller Index](https://fred.stlouisfed.org/series/CSUSHPISA)
 The S&P CoreLogic Case-Shiller U.S. National Home Price NSA Index measures the change in the value of the U.S. residential housing market by tracking the purchase prices of single-family homes. The index is compiled and published monthly. The national index is widely viewed as a barometer of the U.S. housing market and the broader economy.
 
 ![Graph](fredgraph.png)
+
+## References
+
+1. https://www.imf.org/en/Blogs/Articles/2023/03/14/house-prices-continue-to-fall-as-borrowing-costs-rise
+2. https://www.economicshelp.org/blog/377/housing/factors-that-affect-the-housing-market/
+3. https://www.bankrate.com/real-estate/interest-rates-housing/
+4. https://www.atlantis-press.com/article/125971723.pdf
+5. https://pvsbuilders.com/economic-factors-affecting-housing-market/
+6. https://www.investopedia.com/articles/mortages-real-estate/11/factors-affecting-real-estate-market.asp
+

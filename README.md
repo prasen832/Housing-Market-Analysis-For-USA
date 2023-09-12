@@ -8,3 +8,7 @@ Find publicly available data for key factors that influence US home prices *nati
 
 ## Overview
 The housing market is influenced by the state of the economy, interest rates, real income and changes in the size of the population. As well as these demand-side factors, house prices will be determined by available supply. With periods of rising demand and limited supply, we will see rising house prices.
+
+## Factors Affecting Housing Market
+
+

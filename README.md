@@ -35,10 +35,10 @@ The housing market is influenced by the state of the economy, interest rates, re
 10. Number of Households - https://fred.stlouisfed.org/series/TTLHH
 11. Consumer Sentiments - https://fred.stlouisfed.org/series/UMCSENT
 
-## S&P/Case-Shiller U.S. National Home Price Index
+## S&P/Case-Shiller U.S. National Home Price Index Graph
 
-Link to ![Case-ShillerIndex](https://fred.stlouisfed.org/series/CSUSHPISA)
+Link to [Case-ShillerIndex](https://fred.stlouisfed.org/series/CSUSHPISA)
 
 The S&P CoreLogic Case-Shiller U.S. National Home Price NSA Index measures the change in the value of the U.S. residential housing market by tracking the purchase prices of single-family homes. The index is compiled and published monthly. The national index is widely viewed as a barometer of the U.S. housing market and the broader economy.
 
-
+![Graph](fredgraph.png)

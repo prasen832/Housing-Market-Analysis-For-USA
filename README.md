@@ -21,3 +21,4 @@ The housing market is influenced by the state of the economy, interest rates, re
 9. Urban Population
 10. Number of Households
 
+## Time-series Data for the Factors Affecting the Housing Market

@@ -20,7 +20,7 @@ Household income generally refers to the combined gross income of all members of
 A mortgage rate is the interest rate charged for a home loan.
 
 #### 4. Inflation Rate
-Inflation is the rate at which prices for goods and services rise.
+Inflation is the rate at which prices for goods and services rise. Consumer Price Index is one of the key indicator of Inflation.
 
 #### 5. GDP per capita
 Gross Domestic Product (GDP) per capita shows a country's GDP divided by its total population. GDP per capita provides a basic measure of the value of output per person, which is an indirect indicator of per capita income.

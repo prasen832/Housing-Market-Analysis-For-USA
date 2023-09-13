@@ -32,13 +32,13 @@ Producer Price Index by Commodity for Construction Materials.
 The month's supply is the ratio of new houses for sale to new houses sold. This statistic provides an indication of the size of the new for-sale inventory in relation to the number of new houses currently being sold. The months' supply indicates how long the current new for-sale inventory would last given the current sales rate if no additional new houses were built.
 
 #### 8. Working Population
-Working Age Population for ages between 15-64 for all Persons in the United States in percentage.
+Working Age Population for ages between 15-64 for all Persons in the United States.
 
 #### 9. Housing Subsidies
-Federal Government subsidies for Housing in million dollars.
+Federal Government subsidies for Housing in the United States.
 
 #### 10. Number of Households
-Total Households in the United States in thousands.
+Total Households in the United States.
 
 #### 11. Consumer Sentiments
 Consumer sentiment is a statistical measurement of the overall health of the economy as determined by consumer opinion. It takes into account people's feelings toward their current financial health, the health of the economy in the short-term, and the prospects for longer-term economic growth, and is widely considered to be a useful economic indicator.

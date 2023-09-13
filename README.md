@@ -13,16 +13,26 @@ The housing market is influenced by the state of the economy, interest rates, re
 ### 1. Unemployment Rate 
 The unemployment rate represents the number of unemployed as a percentage of the labor force.
 
-2. Median Household Income
-3. Mortgage interest rate
-4. Inflation Rate
-5. GDP per capita
-6. Construction Prices
-7. Monthly Supply of New Houses
-8. Working Population
-9. Housing Subsidies
-10. Number of Households
-11. Consumer Sentiments
+## 2. Median Household Income
+Median Income for Households in the United States in dollars.
+
+## 3. Mortgage interest rate
+30-Year Fixed Rate Mortgage Average in the United States in percentage.
+
+## 4. Inflation Rate
+
+## 5. GDP per capita
+Per capita GDP in Dollars
+
+## 6. Construction costs
+Producer Price Index by Commodity: Special Indexes: Construction Materials  
+
+## 8. Monthly Supply of New Houses
+
+9. Working Population
+10. Housing Subsidies
+11. Number of Households
+12. Consumer Sentiments
 
 ## Time-series Data for the Factors Affecting the Housing Market
 1. Unemployment Rate - https://fred.stlouisfed.org/series/UNRATE

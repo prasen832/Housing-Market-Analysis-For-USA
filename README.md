@@ -14,20 +14,22 @@ The housing market is influenced by the state of the economy, interest rates, re
 The unemployment rate represents the number of unemployed as a percentage of the labor force.
 
 #### 2. Median Household Income
-Median Income for Households in the United States in dollars.
+Household income generally refers to the combined gross income of all members of a household above a specified age.
 
 #### 3. Mortgage interest rate
-30-Year Fixed Rate Mortgage Average in the United States in percentage.
+A mortgage rate is the interest rate charged for a home loan.
 
 #### 4. Inflation Rate
+Inflation is the rate at which prices for goods and services rise.
 
 #### 5. GDP per capita
-Per capita GDP in Dollars
+Gross Domestic Product (GDP) per capita shows a country's GDP divided by its total population. GDP per capita provides a basic measure of the value of output per person, which is an indirect indicator of per capita income.
 
 #### 6. Construction costs
-Producer Price Index by Commodity: Special Indexes: Construction Materials  
+Producer Price Index by Commodity for Construction Materials  
 
 #### 7. Monthly Supply of New Houses
+The month's supply is the ratio of new houses for sale to new houses sold. This statistic provides an indication of the size of the new for-sale inventory in relation to the number of new houses currently being sold. The months' supply indicates how long the current new for-sale inventory would last given the current sales rate if no additional new houses were built.
 
 #### 8. Working Population
 Working Age Population for ages between 15-64 for all Persons in the United States in percentage
@@ -42,7 +44,7 @@ Total Households in the United States in thousands
 Consumer sentiment is a statistical measurement of the overall health of the economy as determined by consumer opinion. It takes into account people's feelings toward their current financial health, the health of the economy in the short-term, and the prospects for longer-term economic growth, and is widely considered to be a useful economic indicator.
 
 #### 12. Recession
-In the United States, a recession is defined as a significant decline in economic activity spread across the market, lasting more than a few months, normally visible in real GDP, real income, employment, industrial production, and wholesale retail sales. whenever there is a recession people are more likely to spend less money and this affects the housing market to a large extend.
+In the United States, a recession is defined as a significant decline in economic activity spread across the market, lasting more than a few months, normally visible in real GDP, real income, employment, industrial production, and wholesale retail sales. whenever there is a recession people are more likely to spend less money and this affects the housing market to a large extent.
 
 ## Time-series Data for the Factors Affecting the Housing Market
 1. Unemployment Rate - https://fred.stlouisfed.org/series/UNRATE

@@ -58,6 +58,7 @@ In the United States, a recession is defined as a significant decline in economi
 9. Housing Subsidies - https://fred.stlouisfed.org/series/L312051A027NBEA
 10. Number of Households - https://fred.stlouisfed.org/series/TTLHH
 11. Consumer Sentiments - https://fred.stlouisfed.org/series/UMCSENT
+12. Recession Time - https://fred.stlouisfed.org/series/JHDUSRGDPBR
 
 ## S&P/Case-Shiller U.S. National Home Price Index Graph
 

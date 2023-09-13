@@ -50,7 +50,7 @@ In the United States, a recession is defined as a significant decline in economi
 1. Unemployment Rate - https://fred.stlouisfed.org/series/UNRATE
 2. Median Household Income - https://fred.stlouisfed.org/series/MEHOINUSA646N
 3. Mortgage interest rate - https://fred.stlouisfed.org/series/MORTGAGE30US
-4. Inflation Rate - https://fred.stlouisfed.org/series/FPCPITOTLZGUSA
+4. Inflation Rate - https://data.bls.gov/pdq/SurveyOutputServlet
 5. GDP per capita - https://fred.stlouisfed.org/series/A939RC0A052NBEA
 6. Construction Prices - https://fred.stlouisfed.org/series/WPUSI012011
 7. Monthly Supply of New Houses - https://fred.stlouisfed.org/series/MSACSR

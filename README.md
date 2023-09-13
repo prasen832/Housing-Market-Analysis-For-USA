@@ -37,7 +37,7 @@ Working Age Population for ages between 15-64 for all Persons in the United Stat
 #### 9. Housing Subsidies
 Federal Government subsidies for Housing in the United States.
 
-#### 10. Number of Households
+#### 10. Household Estimates
 Total Households in the United States.
 
 #### 11. Consumer Sentiments

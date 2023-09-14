@@ -89,6 +89,12 @@ In the United States, a recession is defined as a significant decline in economi
 7. Plot the first all samples from y_test and y_pred.
 8. Plot Feature Importance
 
+## Feature Importance Plot
+![feature](Imp_Features.jpg)
+
+## Result Plot - Actual Value and Predicted Value
+
+
 ## Time-series Data for the Factors Affecting the Housing Market
 1. Unemployment Rate - https://fred.stlouisfed.org/series/UNRATE
 2. Median Household Income - https://fred.stlouisfed.org/series/MEHOINUSA646N

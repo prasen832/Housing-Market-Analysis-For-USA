@@ -93,7 +93,7 @@ In the United States, a recession is defined as a significant decline in economi
 ![feature](Imp_Features.jpg)
 
 ## Result Plot - Actual Value and Predicted Value
-
+![Result](Result.jpg)
 
 ## Time-series Data for the Factors Affecting the Housing Market
 1. Unemployment Rate - https://fred.stlouisfed.org/series/UNRATE

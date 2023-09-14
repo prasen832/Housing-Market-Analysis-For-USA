@@ -59,6 +59,33 @@ In the United States, a recession is defined as a significant decline in economi
 4. Our **Machine Learning Model** will try to **predict** the **target value** by **establishing the relation between 12 features and the target value.**
 5. We will use **XGBoost Regression Model** as it is a **Regression problem.**
 
+### EDA and Feature Engineering
+
+1. Gather all 12 features Time-Series data and put them into one folder
+2. Read the individual data file.
+3. Make the DATE column as pandas DATETIME and keep only Month and Year.
+4. Rename the information column from Time-Series data.
+5. Convert GPD, House_Subsidies and Median_Household_Income data from annual to monthly.
+6. Convert Mortgage Interest rate from weekly to monthly.
+7. Create a Excel file for Recession by making, 1 for Recession and 0 for No Recession, for Recession month and year between Jan 2011 to Dec 2021.
+8. Add Recession as a feature.
+9. Merge all 12 features into one Dataframe using the DATE column.
+10. Make Month and Year as 2 new features.
+11. Delete the DATE column as we no longer need it.
+
+### Model fitting using XGBoost 
+
+#### For the Regression model, evaluation should be done using Mean Absolute Percentage Error
+
+1. Split the dataset into train and test sets.
+2. XGBoost does not require any feature scaling.
+3. Import and fit the model.
+4. Evaluate the loss on mean absolute error.
+5. Predict for test data.
+6. Evaluate the mean absolute percentage error between y_test and y_pred.
+7. Plot the first all samples from y_test and y_pred.
+8. Plot Feature Importance
+
 ## Time-series Data for the Factors Affecting the Housing Market
 1. Unemployment Rate - https://fred.stlouisfed.org/series/UNRATE
 2. Median Household Income - https://fred.stlouisfed.org/series/MEHOINUSA646N

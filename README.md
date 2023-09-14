@@ -48,11 +48,11 @@ In the United States, a recession is defined as a significant decline in economi
 
 ## Problem Solving Approach
 
-#### Dataset
+### Dataset
 1. **No such dataset is readily available.** So we **need to do** a **little research** and **gather Time-Series data** for the last 20 years for all the **above factors** mentioned.
 2. We are **collecting data** from **Jan 2001 to Dec 2021** on a **monthly basis.**
 
-#### Machine Learning Model
+### Machine Learning Model
 1. Once we **gather all the Time-Series data** we will **put** them into **one andas Dataframe.**
 2. We will use **12 factors affecting the housing market** as our **12 Features.**
 3. Our **target output** will be **S&P Case-Schiller Home Price Index**.

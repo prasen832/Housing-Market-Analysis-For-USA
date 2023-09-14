@@ -46,6 +46,19 @@ Consumer sentiment is a statistical measurement of the overall health of the eco
 #### 12. Recession
 In the United States, a recession is defined as a significant decline in economic activity spread across the market, lasting more than a few months, normally visible in real GDP, real income, employment, industrial production, and wholesale retail sales. whenever there is a recession people are more likely to spend less money and this affects the housing market to a large extent.
 
+## Problem Solving Approach
+
+#### Dataset
+1. **No such dataset is readily available.** So we **need to do** a **little research** and **gather Time-Series data** for the last 20 years for all the **above factors** mentioned.
+2. We are **collecting data** from **Jan 2001 to Dec 2021** on a **monthly basis.**
+
+#### Machine Learning Model
+1. Once we **gather all the Time-Series data** we will **put** them into **one andas Dataframe.**
+2. We will use **12 factors affecting the housing market** as our **12 Features.**
+3. Our **target output** will be **S&P Case-Schiller Home Price Index**.
+4. Our **Machine Learning Model** will try to **predict** the **target value** by **establishing the relation between 12 features and the target value.**
+5. We will use **XGBoost Regression Model** as it is a **Regression problem.**
+
 ## Time-series Data for the Factors Affecting the Housing Market
 1. Unemployment Rate - https://fred.stlouisfed.org/series/UNRATE
 2. Median Household Income - https://fred.stlouisfed.org/series/MEHOINUSA646N

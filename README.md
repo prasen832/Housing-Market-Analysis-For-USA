@@ -68,10 +68,13 @@ In the United States, a recession is defined as a significant decline in economi
 5. Convert GPD, House_Subsidies and Median_Household_Income data from annual to monthly.
 6. Convert Mortgage Interest rate from weekly to monthly.
 7. Create a Excel file for Recession by making, 1 for Recession and 0 for No Recession, for Recession month and year between Jan 2011 to Dec 2021.
-8. Add Recession as a feature.
+8. Add Recession as a new feature.
 9. Merge all 12 features into one Dataframe using the DATE column.
 10. Make Month and Year as 2 new features.
 11. Delete the DATE column as we no longer need it.
+12. Plot the Boxplot to find out Outliners.
+13. Plot the Heatmap to visualize the strength of correlation among variables.
+14. Use info() to make sure that all features are numeric and no null value left in the data.
 
 ### Model fitting using XGBoost 
 

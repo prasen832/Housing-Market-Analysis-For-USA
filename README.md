@@ -87,7 +87,7 @@ In the United States, a recession is defined as a significant decline in economi
 5. Predict for test data.
 6. Evaluate the mean absolute percentage error between y_test and y_pred.
 7. Plot the first all samples from y_test and y_pred.
-8. Plot Feature Importance
+8. Plot Feature Importance.
 
 ## Feature Importance Plot
 ![feature](Imp_Features.jpg)

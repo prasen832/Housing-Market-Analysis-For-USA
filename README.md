@@ -59,8 +59,10 @@ We will use this **Index** as our **target in this project.**
 ## Problem Solving Approach
 
 ### Dataset
-1. **No such dataset is readily available.** So we **need to do** a **little research** and **gather Time-Series data** for the last 20 years for all the **above factors** mentioned.
-2. We are **collecting data** from **Jan 2001 to Dec 2021** on a **monthly basis.**
+1. **No such dataset is readily available.** 
+2. So we **need to do** a **little research** and **gather Time-Series data** for the last 20 years for all the **above factors** 
+   mentioned.
+3. We are **collecting data** from **Jan 2001 to Dec 2021** on a **monthly basis.**
 
 ### Machine Learning Model
 1. Once we **gather all the Time-Series data** we will **put** them into **one andas Dataframe.**
@@ -84,20 +86,20 @@ We will use this **Index** as our **target in this project.**
 11. **Delete** the **DATE column** as we no longer need it.
 12. Plot the **Boxplot** to find out **Outliners.**
 13. Plot the **Heatmap** to **visualize the strength of correlation among variables.**
-14. Use **info()* to make sure that **all features** are **numeric** and all **null** values are **removed.**
+14. Use **info()** to make sure that **all features** are **numeric** and all **null** values are **removed.**
 
 ### Model fitting using XGBoost 
 
 #### For the Regression model, evaluation should be done using Mean Absolute Percentage Error
 
-1. Split the dataset into train and test sets.
-2. XGBoost does not require any feature scaling.
-3. Import and fit the model.
-4. Evaluate the loss on mean absolute error.
-5. Predict for test data.
-6. Evaluate the mean absolute percentage error between y_test and y_pred.
-7. Plot the first all samples from y_test and y_pred.
-8. Plot Feature Importance.
+1. **Split** the **dataset** into **train** and **test** sets.
+2. **XGBoost does not require any feature scaling.**
+3. **Import** and **fit the model.**
+4. **Evaluate** the **loss on mean absolute error.**
+5. **Predict** for **test** data.
+6. **Evaluate** the **mean absolute percentage error** between **y_test and y_pred.**
+7. **Plot** the all samples from **y_test and y_pred.**
+8. **Plot Feature Importance.**
 
 ## Feature Importance Plot
 ![feature](Imp_Features.jpg)

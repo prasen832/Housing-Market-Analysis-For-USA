@@ -46,6 +46,16 @@ Consumer sentiment is a statistical measurement of the overall health of the eco
 #### 12. Recession
 In the United States, a recession is defined as a significant decline in economic activity spread across the market, lasting more than a few months, normally visible in real GDP, real income, employment, industrial production, and wholesale retail sales. whenever there is a recession people are more likely to spend less money and this affects the housing market to a large extent.
 
+## S&P/Case-Shiller U.S. National Home Price Index
+
+Link to [Case-Shiller Index](https://fred.stlouisfed.org/series/CSUSHPISA)
+
+The **S&P CoreLogic Case-Shiller U.S. National Home Price NSA Index** measures the **change in the value** of the **U.S. residential housing market** by tracking the purchase prices of single-family homes. The **index** is **compiled** and **published monthly.** The **national index** is widely viewed as a **barometer of the U.S. housing market** and the broader economy.
+
+We will use this **Index** as our **target in this project.**
+
+![Graph](fredgraph.png)
+
 ## Problem Solving Approach
 
 ### Dataset
@@ -109,13 +119,6 @@ In the United States, a recession is defined as a significant decline in economi
 11. Consumer Sentiments - https://fred.stlouisfed.org/series/UMCSENT
 12. Recession Time - https://en.wikipedia.org/wiki/List_of_recessions_in_the_United_States
 
-## S&P/Case-Shiller U.S. National Home Price Index Graph
-
-Link to [Case-Shiller Index](https://fred.stlouisfed.org/series/CSUSHPISA)
-
-The S&P CoreLogic Case-Shiller U.S. National Home Price NSA Index measures the change in the value of the U.S. residential housing market by tracking the purchase prices of single-family homes. The index is compiled and published monthly. The national index is widely viewed as a barometer of the U.S. housing market and the broader economy.
-
-![Graph](fredgraph.png)
 
 ## References
 

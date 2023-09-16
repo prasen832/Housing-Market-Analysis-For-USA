@@ -103,16 +103,16 @@ We will use this **Index** as our **target in this project.**
 7. **Plot** the all samples from **y_test and y_pred.**
 8. **Plot Feature Importance.**
 
-## Feature Importance Plot for Gradient Boosting
-![feature1](Imp_Features1.jpg)
-
 ## Gradient Boosting Regressor Performance
 **Percentage Accuracy on Test data is 98.86 %**
 
-**The mean Absolute Percentage Error on Test data is 1.13 %**
+**The mean Absolute Percentage Error on Test data is 1.14 %**
 
 ## Result Plot for Gradient Boosting - Actual Value and Predicted Value
 ![Result1](Result1.jpg)
+
+## Feature Importance Plot for Gradient Boosting
+![feature1](Imp_Features1.jpg)
 
 ### Model fitting using Random Forest Regressor 
 
@@ -127,16 +127,20 @@ We will use this **Index** as our **target in this project.**
 7. **Plot** the all samples from **y_test and y_pred.**
 8. **Plot Feature Importance.**
 
-## Feature Importance Plot for Random Forest
-![feature2](Imp_Features2.jpg)
 
 ## Random Forest Regressor Performance
-**Percentage Accuracy on Test data is 98.86 %**
+**Percentage Accuracy on Test data is 99.27 %**
 
-**The mean Absolute Percentage Error on Test data is 1.13 %**
+**The mean Absolute Percentage Error on Test data is 0.73 %**
 
 ## Result Plot for Random Forest - Actual Value and Predicted Value
 ![Result2](Result2.jpg)
+
+## Feature Importance Plot for Random Forest
+![feature2](Imp_Features2.jpg)
+
+## Conclusion
+**Both Random Forest and Gradient Boosting are performing well whereas Random Forest is performing slightly better than Gradient Boosting in this project.**
 
 ## Time-series Data for the Factors Affecting the Housing Market
 1. Unemployment Rate - https://fred.stlouisfed.org/series/UNRATE

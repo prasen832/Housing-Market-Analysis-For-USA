@@ -90,7 +90,7 @@ We will use this **Index** as our **target in this project.**
 
 **Note: Since we have a small dataset and fewer features we will go for Gradient Boosting Regressor or Random Forest Regressor**
 
-### Model fitting using Gradient Boosting Regressor
+## Model fitting using Gradient Boosting Regressor
 
 #### For the Regression model, evaluation should be done using Mean Absolute Percentage Error
 
@@ -114,7 +114,7 @@ We will use this **Index** as our **target in this project.**
 ## Feature Importance Plot for Gradient Boosting
 ![feature1](Imp_Features1.jpg)
 
-### Model fitting using Random Forest Regressor 
+## Model fitting using Random Forest Regressor 
 
 #### For the Regression model, evaluation should be done using Mean Absolute Percentage Error
 
@@ -140,7 +140,7 @@ We will use this **Index** as our **target in this project.**
 ![feature2](Imp_Features2.jpg)
 
 ## Conclusion
-**Both Random Forest and Gradient Boosting are performing well whereas Random Forest is performing slightly better than Gradient Boosting in this project.**
+**Both Random Forest and Gradient Boosting are performing well whereas Random Forest is performing slightly better than Gradient Boosting in this project. We can also observe that the importance given to features by both algorithms also slightly varies.**
 
 ## Time-series Data for the Factors Affecting the Housing Market
 1. Unemployment Rate - https://fred.stlouisfed.org/series/UNRATE

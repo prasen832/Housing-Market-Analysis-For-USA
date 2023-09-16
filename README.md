@@ -88,12 +88,14 @@ We will use this **Index** as our **target in this project.**
 13. Plot the **Heatmap** to **visualize the strength of correlation among variables.**
 14. Use **info()** to make sure that **all features** are **numeric** and all **null** values are **removed.**
 
-### Model fitting using XGBoost 
+**Note: Since we have a small dataset and fewer features we will go for Gradient Boosting Regressor or Random Forest Regressor**
+
+### Model fitting using Gradient Boosting Regressor
 
 #### For the Regression model, evaluation should be done using Mean Absolute Percentage Error
 
 1. **Split** the **dataset** into **train** and **test** sets.
-2. **XGBoost does not require any feature scaling.**
+2. **Gradient Boosting Regressor does not require any feature scaling.**
 3. **Import** and **fit the model.**
 4. **Evaluate** the **loss on mean absolute error.**
 5. **Predict** for **test** data.
@@ -101,11 +103,30 @@ We will use this **Index** as our **target in this project.**
 7. **Plot** the all samples from **y_test and y_pred.**
 8. **Plot Feature Importance.**
 
-## Feature Importance Plot
-![feature](Imp_Features.jpg)
+## Feature Importance Plot for Gradient Boosting
+![feature1](Imp_Features1.jpg)
 
-## Result Plot - Actual Value and Predicted Value
-![Result](Result.jpg)
+## Result Plot for Gradient Boosting - Actual Value and Predicted Value
+![Result1](Result1.jpg)
+
+### Model fitting using Random Forest Regressor 
+
+#### For the Regression model, evaluation should be done using Mean Absolute Percentage Error
+
+1. **Split** the **dataset** into **train** and **test** sets.
+2. **Random Forest Regressor does not require any feature scaling.**
+3. **Import** and **fit the model.**
+4. **Evaluate** the **loss on mean absolute error.**
+5. **Predict** for **test** data.
+6. **Evaluate** the **mean absolute percentage error** between **y_test and y_pred.**
+7. **Plot** the all samples from **y_test and y_pred.**
+8. **Plot Feature Importance.**
+
+## Feature Importance Plot for Random Forest
+![feature2](Imp_Features2.jpg)
+
+## Result Plot for Random Forest - Actual Value and Predicted Value
+![Result2](Result2.jpg)
 
 ## Time-series Data for the Factors Affecting the Housing Market
 1. Unemployment Rate - https://fred.stlouisfed.org/series/UNRATE

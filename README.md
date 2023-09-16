@@ -140,7 +140,7 @@ We will use this **Index** as our **target in this project.**
 ![feature2](Imp_Features2.jpg)
 
 ## Conclusion
-**Both Random Forest and Gradient Boosting are performing well whereas Random Forest is performing slightly better than Gradient Boosting in this project. We can also observe that the importance given to features by both algorithms also slightly varies.**
+**Both Random Forest and Gradient Boosting are performing well whereas Random Forest is performing slightly better than Gradient Boosting in this project. We can also observe that the importance given to features by both algorithms also slightly varies.** 
 
 ## Time-series Data for the Factors Affecting the Housing Market
 1. Unemployment Rate - https://fred.stlouisfed.org/series/UNRATE

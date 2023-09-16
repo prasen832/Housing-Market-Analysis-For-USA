@@ -106,6 +106,11 @@ We will use this **Index** as our **target in this project.**
 ## Feature Importance Plot for Gradient Boosting
 ![feature1](Imp_Features1.jpg)
 
+## Gradient Boosting Regressor Performance
+**Percentage Accuracy on Test data is 98.86 %**
+
+**The mean Absolute Percentage Error on Test data is 1.13 %**
+
 ## Result Plot for Gradient Boosting - Actual Value and Predicted Value
 ![Result1](Result1.jpg)
 
@@ -124,6 +129,11 @@ We will use this **Index** as our **target in this project.**
 
 ## Feature Importance Plot for Random Forest
 ![feature2](Imp_Features2.jpg)
+
+## Random Forest Regressor Performance
+**Percentage Accuracy on Test data is 98.86 %**
+
+**The mean Absolute Percentage Error on Test data is 1.13 %**
 
 ## Result Plot for Random Forest - Actual Value and Predicted Value
 ![Result2](Result2.jpg)

@@ -69,7 +69,8 @@ We will use this **Index** as our **target in this project.**
 2. We will use **12 factors affecting the housing market** as our **12 Features.**
 3. Our **target output** will be **S&P Case-Schiller Home Price Index**.
 4. Our **Machine Learning Model** will try to **predict** the **target value** by **establishing the relation between 12 features and the target value.**
-5. We will use **XGBoost Regression Model** as it is a **Regression problem.**
+5. As  we have a small dataset and fewer features we will use **Gradient Boosting Regression Model** and **Random Forest Regression Model** as it is a **Regression problem.**
+6. We will also **compare** these 2 **models** on the basis of their **performance.**
 
 ### EDA and Feature Engineering
 

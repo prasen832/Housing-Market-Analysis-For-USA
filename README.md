@@ -80,7 +80,7 @@ We will use this **Index** as our **target in this project.**
 4. **Rename** the **information column** from **Time-Series data.**
 5. Convert **GPD, House_Subsidies and Median_Household_Income** data from **annual to monthly.**
 6. Convert **Mortgage Interest rate** from **weekly to monthly** by taking **average.**
-7. Create a **Excel file** for **Recession** by making, **1 for Recession** and **0 for No Recession**,      for Recession month and year between **Jan 2011 to Dec 2021.**
+7. Create a **Excel file** for **Recession** by making, **1** for ***Recession** and **0** for **No Recession**, for Recession month and year between **Jan 2011 to Dec 2021.**
 8. Add **Recession** as a **new feature.**
 9. **Merge** all **12 features** into one **Dataframe** using the **DATE column.**
 10. Make **Month** and **Year** as **two new features.**
@@ -98,16 +98,16 @@ We will use this **Index** as our **target in this project.**
 1. **Split** the **dataset** into **train** and **test** sets.
 2. **Gradient Boosting Regressor does not require any feature scaling.**
 3. **Import** and **fit the model.**
-4. **Evaluate** the **loss on mean absolute error.**
+4. **Evaluate** the **loss on mean square error.**
 5. **Predict** for **test** data.
 6. **Evaluate** the **mean absolute percentage error** between **y_test and y_pred.**
 7. **Plot** the all samples from **y_test and y_pred.**
 8. **Plot Feature Importance.**
 
 ## Gradient Boosting Regressor Performance
-**Percentage Accuracy on Test data is 98.86 %**
+**Percentage Accuracy on Test data is 99.10 %**
 
-**The mean Absolute Percentage Error on Test data is 1.14 %**
+**The mean Absolute Percentage Error on Test data is 0.90 %**
 
 ## Result Plot for Gradient Boosting - Actual Value and Predicted Value
 ![Result1](Result1.jpg)
@@ -122,7 +122,7 @@ We will use this **Index** as our **target in this project.**
 1. **Split** the **dataset** into **train** and **test** sets.
 2. **Random Forest Regressor does not require any feature scaling.**
 3. **Import** and **fit the model.**
-4. **Evaluate** the **loss on mean absolute error.**
+4. **Evaluate** the **loss on mean square error.**
 5. **Predict** for **test** data.
 6. **Evaluate** the **mean absolute percentage error** between **y_test and y_pred.**
 7. **Plot** the all samples from **y_test and y_pred.**
@@ -130,9 +130,9 @@ We will use this **Index** as our **target in this project.**
 
 
 ## Random Forest Regressor Performance
-**Percentage Accuracy on Test data is 99.27 %**
+**Percentage Accuracy on Test data is 99.31 %**
 
-**The mean Absolute Percentage Error on Test data is 0.73 %**
+**The mean Absolute Percentage Error on Test data is 0.69 %**
 
 ## Result Plot for Random Forest - Actual Value and Predicted Value
 ![Result2](Result2.jpg)

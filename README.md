@@ -59,32 +59,32 @@ We will use this **Index** as our **target in this project.**
 ## Problem Solving Approach
 
 ### Dataset
-1. **No such dataset is readily available.** 
+1. No such **dataset** is **readily available.** 
 2. So we **need to do** a **little research** and **gather Time-Series data** for the last 20 years for all the **above factors** 
    mentioned.
 3. We are **collecting data** from **Jan 2001 to Dec 2021** on a **monthly basis.**
 
 ### Machine Learning Model
-1. Once we **gather all the Time-Series data** we will **put** them into **one andas Dataframe.**
+1. Once we **gather all the Time-Series data** we will **put** them into **one Pandas Dataframe.**
 2. We will use **12 factors affecting the housing market** as our **12 Features.**
 3. Our **target output** will be **S&P Case-Schiller Home Price Index**.
-4. Our **Machine Learning Model** will try to **predict** the **target value** by **establishing the relation between 12 features and the target value.**
-5. As  we have a small dataset and fewer features we will use **Gradient Boosting Regression Model** and **Random Forest Regression Model** as it is a **Regression problem.**
+4. Our **Machine Learning Model** will try to **predict** the **target value** by **establishing the relation** between **12 features** and the **target value.**
+5. As  we have a **small dataset** and **fewer features** we will use **Gradient Boosting Regression Model** and **Random Forest Regression Model** as it is a **Regression problem.**
 6. We will also **compare** these 2 **models** on the basis of their **performance.**
 
-### EDA and Feature Engineering
+## EDA and Feature Engineering
 
 1. Collect all **12 features Time-Series data** and put them into **one folder.**
 2. **Read** the individual **data file.**
 3. Make the **DATE column** as **pandas DATETIME** and keep only **Month** and **Year.**
-4. **Rename** the **information column** from Time-Series data.
+4. **Rename** the **information column** from **Time-Series data.**
 5. Convert **GPD, House_Subsidies and Median_Household_Income** data from **annual to monthly.**
-6. Convert *Mortgage Interest rate** from **weekly to monthly** by taking **average.**
-7. Create a Excel file for **Recession** by making, **1 for Recession** and **0 for No Recession**, for Recession month and year between **Jan 2011 to Dec 2021.**
+6. Convert **Mortgage Interest rate** from **weekly to monthly** by taking **average.**
+7. Create a **Excel file** for **Recession** by making, **1 for Recession** and **0 for No Recession**,      for Recession month and year between **Jan 2011 to Dec 2021.**
 8. Add **Recession** as a **new feature.**
-9. **Merge** all **12 features** into one **Dataframe** using the DATE column.
+9. **Merge** all **12 features** into one **Dataframe** using the **DATE column.**
 10. Make **Month** and **Year** as **two new features.**
-11. **Delete** the **DATE column** as we no longer need it.
+11. **Delete** the **DATE column** as we **no longer need** it.
 12. Plot the **Boxplot** to find out **Outliners.**
 13. Plot the **Heatmap** to **visualize the strength of correlation among variables.**
 14. Use **info()** to make sure that **all features** are **numeric** and all **null** values are **removed.**

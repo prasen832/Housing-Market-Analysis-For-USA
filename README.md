@@ -168,3 +168,4 @@ We will use this **Index** as our **target in this project.**
 6. https://www.investopedia.com/articles/mortages-real-estate/11/factors-affecting-real-estate-market.asp 
 7. https://en.wikipedia.org/wiki/Recession
 
+### Now, let's jump into the Jupyter Notebook and begin the Coding work.
